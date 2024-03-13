@@ -1,3 +1,11 @@
 {
-  "recommendations": ["esbenp.prettier-vscode", "dbaeumer.vscode-eslint", "eamodio.gitlens"]
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "bradlc.vscode-tailwindcss",
+    "github.copilot",
+    "github.copilot-chat",
+    "ms-azuretools.vscode-docker"
+  ]
 }
