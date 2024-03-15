@@ -4,12 +4,6 @@
   "trailingComma": "es5",
   "overrides": [
     {
-      "files": ["nx.json"],
-      "options": {
-        "printWidth": 20
-      }
-    },
-    {
       "files": ["tsconfig.json"],
       "options": {
         "printWidth": 120
