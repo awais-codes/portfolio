@@ -22,4 +22,13 @@ type IconName = keyof typeof Icons
 
 export type { IconName }
 
-export { CodeBracketIcon, HandWaveOutlinedIcon }
+export {
+  CodeBracketIcon,
+  HandWaveOutlinedIcon,
+  AcademicHatOulinedIcon,
+  ChevronUpOutlinedIcon,
+  DashboardOutlinedIcon,
+  GithubIcon,
+  MailSolidIcon,
+  LinkedInIcon,
+}
